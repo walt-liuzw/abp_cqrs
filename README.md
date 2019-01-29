@@ -1,7 +1,7 @@
 # abp_cqrs
 
 #### 项目介绍
-基于ABP和MediatR 实现cqrs
+基于ABP和MediatR 实现cqrs,通过MediatR框架与Abp反射（类似Autofac）实现EventBus，做到系统消息解耦
 
 #### 参与贡献
 
